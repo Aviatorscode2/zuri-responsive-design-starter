@@ -75,7 +75,7 @@ ul li a:hover {
     .nav-links.open {
         width: 30%;
         align-items: center;
-        left: 65%;
+        left: 90%;
         clip-path: circle(1000px at 100% -50%);
         -webkit-clip-path: circle(1000px at 100% -50%);
         pointer-events: all;
